@@ -1,0 +1,4 @@
+﻿  yellowtracking.cpp
+e:\vsproject\tracking\yellowtracking\yellowtracking\yellowtracking.cpp(62): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  YellowTracking.vcxproj -> E:\vsProject\Tracking\YellowTracking\x64\Debug\YellowTracking.exe
+  YellowTracking.vcxproj -> E:\vsProject\Tracking\YellowTracking\x64\Debug\YellowTracking.pdb (Partial PDB)

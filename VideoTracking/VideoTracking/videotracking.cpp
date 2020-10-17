@@ -16,7 +16,9 @@ using namespace cv;
 Mat frame, gray, pr_frame, pr_gray;
 vector<Point2f> inPoints;
 vector<Point2f> fpts[2];
-const string video_path = "F:\\DATASET_ANIMATION\\opticaltracking\\video1.mp4";
+//const string video_path = "F:\\DATASET_ANIMATION\\opticaltracking\\video1.mp4";
+
+const string video_path = "..\\..\\VideoData\\video1.mp4";
 
 void trackAlgorithm(Mat& frame);
 
